@@ -1,0 +1,15 @@
+C:\Users\7010\source\repos\CARRO\bin\Debug\CARRO.exe.config
+C:\Users\7010\source\repos\CARRO\bin\Debug\CARRO.exe
+C:\Users\7010\source\repos\CARRO\bin\Debug\CARRO.pdb
+C:\Users\7010\source\repos\CARRO\obj\Debug\CARRO.csprojAssemblyReference.cache
+C:\Users\7010\source\repos\CARRO\obj\Debug\CARRO.Form1.resources
+C:\Users\7010\source\repos\CARRO\obj\Debug\CARRO.Properties.Resources.resources
+C:\Users\7010\source\repos\CARRO\obj\Debug\CARRO.csproj.GenerateResource.cache
+C:\Users\7010\source\repos\CARRO\obj\Debug\CARRO.csproj.CoreCompileInputs.cache
+C:\Users\7010\source\repos\CARRO\obj\Debug\CARRO.exe
+C:\Users\7010\source\repos\CARRO\obj\Debug\CARRO.pdb
+C:\Users\7010\source\repos\CARRO\bin\Debug\Interop.WMPLib.dll
+C:\Users\7010\source\repos\CARRO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\7010\source\repos\CARRO\obj\Debug\Interop.WMPLib.dll
+C:\Users\7010\source\repos\CARRO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\7010\source\repos\CARRO\obj\Debug\CARRO.csproj.ResolveComReference.cache
